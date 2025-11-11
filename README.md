@@ -9,7 +9,7 @@ Tenho uma pós-graduação em Ciência de Dados e Inteligência Artificial na XP
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorL85&repo=Licitacao.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorL85&repo=Educa.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
