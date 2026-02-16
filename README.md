@@ -8,13 +8,11 @@ Participo de projetos que exigem pensamento crítico, inovação e foco em solu�
 Sou uma pessoa calma, analítica e apaixonada por tecnologia. Estou em busca de oportunidades para colaborar e crescer no campo de ciência de dados e inteligência artificial.
 
 Por ser uma pessoa analítica e por ter gostado de aprender sobre dados na Anhembi, me senti motivado a escolher a área de dados, onde reforcei meus conhecimentos de Python, MySQL e aprendi sistemas novos como MongoDB e a criar dashboard com Power Bi ou looker studio.
-### Detalhes
+### 📊 Detalhes
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VictorL85&show_icons=true&theme=dark)
 
-### Linguagens utilizadas
-
+### 💻 Linguagens utilizadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorL85&layout=compact&theme=dark)
-
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/victor-lopes-vila-real/)
