@@ -14,13 +14,6 @@ Por ser uma pessoa analítica e por ter gostado de aprender sobre dados na Anhem
 ### 💻 Linguagens utilizadas
 ![Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorL85&layout=compact&theme=dark)
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorL85&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorL85&layout=compact&theme=tokyonight" />
-</p>
-
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/victor-lopes-vila-real/)
