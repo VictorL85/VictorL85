@@ -9,11 +9,11 @@ Sou uma pessoa calma, analítica e apaixonada por tecnologia. Estou em busca de 
 
 Por ser uma pessoa analítica e por ter gostado de aprender sobre dados na Anhembi, me senti motivado a escolher a área de dados, onde reforcei meus conhecimentos de Python, MySQL e aprendi sistemas novos como MongoDB e a criar dashboard com Power Bi ou looker studio.
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorL85&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VictorL85&show_icons=true&theme=dark)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorL85&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorL85&layout=compact&theme=dark)
 
 ### Contatos
 
